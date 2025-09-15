@@ -7,7 +7,7 @@ Completed a comprehensive, hands-on series of Google Cloud labs focused on found
 ## Google Cloud Cybersecurity Labs
 
 ### Recover VMs with Google Backup and DR Service
-Configured Google Backup and DR to restore virtual machines after simulated data loss, demonstrating disaster-recovery planning. ![Recover VMs Screenshot]
+Configured Google Backup and DR to restore virtual machines after simulated data loss, demonstrating disaster-recovery planning.
 
 ### Respond and Recover from a Data Breach
 Investigated a simulated breach, contained the incident, and applied response steps to restore normal operations.
@@ -34,14 +34,18 @@ Generated and managed encryption keys with Cloud Key Management Service (KMS) to
 Manually configured Google Cloud firewall rules to restrict inbound and outbound traffic based on least-privilege principles.
 
 ### Create a Role in Google Cloud IAM
-Built cust
+Built custom IAM roles to enforce granular access control and applied the principle of least privilege.
+
+### Use Reports to Remediate Findings
+Reviewed Security Command Center reports and applied remediations to close high-risk vulnerabilities.
+
+### Create a VPC Using Cloud Shell
+Provisioned a Virtual Private Cloud (VPC) with subnets and routing via Cloud Shell, enabling secure network segmentation.
 
 **Skills Demonstrated:** Google Cloud security architecture, IAM policy design, network segmentation, encryption and key management, log analysis, incident detection and response, Linux system hardening, gcloud CLI.
 
 **Outcome:** Gained practical experience securing cloud environments end-to-end—covering identity, network, data, and workload protection.
 **Portfolio description**: ## Google Cloud Cybersecurity Labs Portfolio
 Completed a hands-on series of Google Cloud security labs covering identity, network, and data protection. Projects included creating custom IAM roles, building and securing VPC networks, changing firewall rules with Terraform, analyzing audit logs in BigQuery, detecting and investigating incidents, remediating vulnerabilities, encrypting data with symmetric and asymmetric keys, and recovering virtual machines with Backup and DR. These labs demonstrate practical skills in cloud access control, incident response, data encryption, and disaster recovery.
-### Recover VMs with Google Backup and DR Service
-Configured Google Backup and DR to recover virtual machines after simulated data loss.
 
-![VM Recovery Screenshot](screenshots/recover-vms/success.png)
+
