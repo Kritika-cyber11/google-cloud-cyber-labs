@@ -7,7 +7,7 @@ Completed a comprehensive, hands-on series of Google Cloud labs focused on found
 ## Google Cloud Cybersecurity Labs
 
 ### Recover VMs with Google Backup and DR Service
-Configured Google Backup and DR to restore virtual machines after simulated data loss, demonstrating disaster-recovery planning.
+Configured Google Backup and DR to restore virtual machines after simulated data loss, demonstrating disaster-recovery planning. 
 
 ### Respond and Recover from a Data Breach
 Investigated a simulated breach, contained the incident, and applied response steps to restore normal operations.
